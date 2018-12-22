@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             // ConsoleApp1 modified by user xxx
+            // Code was added in VS
         }
     }
 }
